@@ -3,11 +3,6 @@
 
 #### It is a real time website which user can use to mark tasks on daily basis. Here one can add some tasks as per there need and can also been deleted as per the completion of the tasks
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
-
 
 ##### This is the default page.
 
